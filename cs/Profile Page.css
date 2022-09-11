@@ -1,0 +1,128 @@
+.first{
+    height:auto;
+    border: 10px solid rgb(37, 40, 49);
+    width: inherit;
+    color: rgb(255, 254, 254);
+    font-size:x-large;
+}
+.second{
+    height: auto;
+    border: 10px solid rgb(37, 40, 49);
+    width: inherit;
+}
+.third{
+    height: auto;
+    border: 10px solid rgb(37, 40, 49);
+    width: inherit;
+}
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    height: fit-content;
+    margin:0px;
+    padding: 0px;
+    width:inherit;
+}
+.img1{
+    height: 19vh;
+    display: block;
+    margin: 1px auto;
+}
+.p1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.p2{
+    margin-top: 0px;
+    font-weight: bolder;
+    font: size 100cm;;
+}
+.input{
+    display: flex;
+    justify-content: baseline;
+    padding: 20px;
+}
+.btn1{
+    padding: 10px;
+    box-shadow: 5px 3px 2px rgb(54, 84, 112);
+}
+.btn2{
+    padding: 10px;
+    box-shadow: 5px 3px 2px rgb(72, 86, 112);
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5px auto;
+    margin-top:  10px;
+    margin-right: 45px;
+}
+.v{
+    margin: 5px auto;
+   font-weight: bold;
+}
+.d{
+    margin: 10px auto;
+ 
+}
+*{
+    font-weight: 900;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+.img2{
+    height: auto;
+    display: block;
+    margin: 1px auto;
+    width: 90vw;
+}
+.con{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.con1{
+    border: none;
+    border-radius: 15px;
+}
+
+.posts{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: cursive;
+    width: 100%;
+}
+.con11{
+    border-bottom: 2px solid rgb(77, 93, 124);
+    display: flex;
+    align-items: center;
+
+}
+span{
+    margin-left: 10px;
+}
+.text{
+    margin-top: 10px;
+}
+.vi{
+    display: inline;
+}
+.ve{
+    display: inline;
+}
+.p{
+    margin: 5px auto;
+   display: flex;
+   justify-content: center;
+}
+.q{
+    margin: 10px auto;
+    display: flex;
+   justify-content: center;
+ 
+}
